@@ -58,7 +58,8 @@ Escalation Techniques Brute Force Tools and Fuzzing.)
 Seeking a junior cybersecurity or backend development role where I can apply and enhance my knowledge in real-world systems.
 
 ---
-🎓 Training & Certifications
+🎓 Training & Certifications:
+
 -Cybersecurity Diploma (6 Months + 1 Month Practical Training – 150 hours)
 -Network+
 -Linux+
