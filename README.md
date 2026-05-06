@@ -70,6 +70,7 @@ Seeking a junior cybersecurity or backend development role where I can apply and
 -Penetration Testing Internship – Microtec (Saudi Company)
 ---
 🧪 Hands-On Experience
+
 -Solved 50+ labs on TryHackMe (Pre-Security & Pentesting paths)
 -Practiced real-world web attacks using PortSwigger Web Security Academy
 -Built small applications using C++, C#, and Python
