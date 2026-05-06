@@ -59,7 +59,7 @@ Seeking a junior cybersecurity or backend development role where I can apply and
 
 
 ---
-##🧪 Hands-On Experience
+## 🧪 Hands-On Experience
 
 -Solved 50+ labs on TryHackMe (Pre-Security & Pentesting paths)
 -Practiced real-world web attacks using PortSwigger Web Security Academy
@@ -72,7 +72,7 @@ The competition brought together top university teams across Egypt and focused o
 Gained advanced problem-solving skills, teamwork experience, and hands-on cybersecurity exposure.
 ---
 
-##🎓 Training & Certifications
+## 🎓 Training & Certifications
 Cybersecurity Diploma (6 Months + 1 Month Practical Training) – 150 hours
 Network+
 Linux+
