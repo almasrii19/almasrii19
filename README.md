@@ -59,7 +59,7 @@ Seeking a junior cybersecurity or backend development role where I can apply and
 
 
 ---
-🧪 Hands-On Experience
+##🧪 Hands-On Experience
 
 -Solved 50+ labs on TryHackMe (Pre-Security & Pentesting paths)
 -Practiced real-world web attacks using PortSwigger Web Security Academy
@@ -72,14 +72,13 @@ The competition brought together top university teams across Egypt and focused o
 Gained advanced problem-solving skills, teamwork experience, and hands-on cybersecurity exposure.
 ---
 
-🎓 Training & Certifications:
-
--Cybersecurity Diploma (6 Months + 1 Month Practical Training – 150 hours)
--Network+
--Linux+
--Security+
--Network Penetration Testing
--Web Penetration Testing
--Complete Penetration Testing (Diploma Final Practical Month)
--CCNA (Cisco Certified Network Associate) – Training completed at college
--Penetration Testing Internship – Microtec (Saudi Company)
+##🎓 Training & Certifications
+Cybersecurity Diploma (6 Months + 1 Month Practical Training) – 150 hours
+Network+
+Linux+
+Security+
+Network Penetration Testing
+Web Penetration Testing
+Complete Penetration Testing (Final Practical Month)
+CCNA (Cisco Certified Network Associate) – Training completed at university
+Penetration Testing Internship – Microtec (Saudi Arabia)
