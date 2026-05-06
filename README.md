@@ -57,18 +57,7 @@ Escalation Techniques Brute Force Tools and Fuzzing.)
 ## 🎯 Career Objective
 Seeking a junior cybersecurity or backend development role where I can apply and enhance my knowledge in real-world systems.
 
----
-🎓 Training & Certifications:
 
--Cybersecurity Diploma (6 Months + 1 Month Practical Training – 150 hours)
--Network+
--Linux+
--Security+
--Network Penetration Testing
--Web Penetration Testing
--Complete Penetration Testing (Diploma Final Practical Month)
--CCNA (Cisco Certified Network Associate) – Training completed at college
--Penetration Testing Internship – Microtec (Saudi Company)
 ---
 🧪 Hands-On Experience
 
@@ -81,3 +70,16 @@ Seeking a junior cybersecurity or backend development role where I can apply and
 Competed in Helwan Cyber Arena CTF, one of the largest national Capture The Flag competitions organized by Helwan University in collaboration with the Ministry of Communications.
 The competition brought together top university teams across Egypt and focused on real-world cybersecurity challenges.
 Gained advanced problem-solving skills, teamwork experience, and hands-on cybersecurity exposure.
+---
+
+🎓 Training & Certifications:
+
+-Cybersecurity Diploma (6 Months + 1 Month Practical Training – 150 hours)
+-Network+
+-Linux+
+-Security+
+-Network Penetration Testing
+-Web Penetration Testing
+-Complete Penetration Testing (Diploma Final Practical Month)
+-CCNA (Cisco Certified Network Associate) – Training completed at college
+-Penetration Testing Internship – Microtec (Saudi Company)
