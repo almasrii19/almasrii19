@@ -54,11 +54,6 @@ Escalation Techniques Brute Force Tools and Fuzzing.)
 
 ---
 
-## 🎯 Career Objective
-Seeking a junior cybersecurity or backend development role where I can apply and enhance my knowledge in real-world systems.
-
-
----
 ## 🧪 Hands-On Experience
 
 -Solved 50+ labs on TryHackMe (Pre-Security & Pentesting paths)
@@ -82,3 +77,9 @@ Web Penetration Testing
 Complete Penetration Testing (Final Practical Month)
 CCNA (Cisco Certified Network Associate) – Training completed at university
 Penetration Testing Internship – Microtec (Saudi Arabia)
+
+## 🎯 Career Objective
+Seeking a junior cybersecurity or backend development role where I can apply and enhance my knowledge in real-world systems.
+
+
+
