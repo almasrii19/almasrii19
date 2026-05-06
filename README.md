@@ -30,6 +30,7 @@ Escalation Techniques Brute Force Tools and Fuzzing.)
 - Agile Methodology
 
 ---
+
 ##💻 Operating Systems
 🐧 Linux (Kali Linux) – Experience with penetration testing environments and security tools
 🪟 Windows – Familiar with system administration and basic security operations
@@ -40,7 +41,6 @@ Escalation Techniques Brute Force Tools and Fuzzing.)
 - Secure Coding Practices
 - Penetration Testing (Web/Network)
   
-
 ---
 
 ## 🚀 Projects
